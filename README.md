@@ -1,12 +1,6 @@
 # CodeAlpha_portfolio 💼
 
-
 Welcome to my personal portfolio website! This site showcases my web development skills, projects, resume, and contact information in a clean, modern, and responsive layout.
-
-## 📌 Live Demo
-
-> 🚀 [View Live Site](https://your-username.github.io/your-portfolio-repo)  
-*(Replace with your actual deployed link)*
 
 ---
 
